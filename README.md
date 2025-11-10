@@ -1,6 +1,6 @@
 # AZZOTTO Movies
 
-**Connecting All Voices.**
+**"Connecting All Voices".**
 
 Azzotto Movies is a sophisticated, streaming platform engineered to cater to a global audience with a specialized focus on regional cinema, including European,  Asian and African films. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.
 
