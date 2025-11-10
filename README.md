@@ -12,7 +12,7 @@ Its core functionality is driven by a structured, data-centric architecture, all
 
 **Scalable Infrastructure:** The site is built for performance and scalability, capable of handling 1m+ concurrent users, media streaming demands and a growing user base without compromising on speed or reliability.
 
-**Regional Content Hubs: **Dedicated, optimized sections for specific regions enabling targeted discovery and showcasing a deep understanding of niche market segmentation.
+**Regional Content Hubs:** Dedicated, optimized sections for specific regions enabling targeted discovery and showcasing a deep understanding of niche market segmentation.
 
 - **Streaming Platform**: https://www.azzottomovies.com/
 - **Repository** : https://github.com/kukuu/azzotto-movies (**PRIVATE**)
