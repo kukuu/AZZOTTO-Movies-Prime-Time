@@ -1,5 +1,7 @@
 # AZZOTTO Movies
 
+Streaming Platform - https://www.azzottomovies.com/ 
+
 **"Connecting All Voices".**
 
 Azzotto Movies is a sophisticated, streaming platform engineered to cater to a global audience with a specialized focus on regional cinema, including European,   Asian and African films. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.
@@ -14,7 +16,6 @@ Its core functionality is driven by a structured, data-centric architecture, all
 
 **Regional Content Hubs:** Dedicated, optimized sections for specific regions enabling targeted discovery and showcasing a deep understanding of niche market segmentation.
 
-- **Streaming Platform**: https://www.azzottomovies.com/  <!-- | https://www.azzottomovies.com/newsletter-->
 - **Repository** : https://github.com/kukuu/azzotto-movies (**PRIVATE**)
 
 
