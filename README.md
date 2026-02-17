@@ -6,7 +6,9 @@ Streaming Platform - https://www.azzottomovies.com/
 
 _A GenXZ  hub combining free services in entertainment,  trends and amusement -  Azzotto Movies is a sophisticated, streaming platform engineered to cater to a global audience with a specialised focus on impactful trailers <!--regional cinema,--> including European,   Asian and African films. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices._
 
-Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library. Key features include:
+Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library. 
+
+Key features include:
 
 **Engagement & Marketing Tools:** Integrated systems like a Newsletter service (/newsletter) to build community and drive user retention through direct communication.
 
