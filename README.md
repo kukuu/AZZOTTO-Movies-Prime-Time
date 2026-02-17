@@ -18,11 +18,11 @@ Its core functionality is driven by a structured, data-centric architecture, all
 
 _Features_:
 
-https://www.azzottomovies.com/movie/434853
-https://www.azzottomovies.com/lounge
-JUKEBOX: Selection of GenXZ music
-Global Music and Sports Events 2026
-Pletora of Galleries and Trends
+- https://www.azzottomovies.com/movie/434853
+- https://www.azzottomovies.com/lounge
+- JUKEBOX: Selection of GenXZ music
+- Global Music and Sports Events 2026
+- Pletora of Galleries and Trends
 
 - **Repository** : https://github.com/kukuu/azzotto-movies (**PRIVATE**) 
 
