@@ -24,6 +24,6 @@ _Modules_:
 - Global Music and Sports Events 2026
 - Pletora of Galleries and Trends
 
-- **Repository** : https://github.com/kukuu/azzotto-movies (**PRIVATE**) 
+**Repository** : https://github.com/kukuu/azzotto-movies (**PRIVATE**) 
 
 
