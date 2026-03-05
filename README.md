@@ -1,7 +1,7 @@
 # AZZOTTO Stream
-_Connecting all straming  voices_
+**_Connecting all straming  voices_**
 
-**https://www.azzottomovies.com/**
+https://www.azzottomovies.com/
 
 A GenXZ hub combining free services in entertainment and trend.
 
