@@ -89,10 +89,10 @@ This evolution positions "*AZZOTTO Stream*" as a comprehensive entertainment pla
 4. *Global Music and Sports* Events 2026
 5. Pletora of *Galleries* and *Trends*
 
-## Production**: 
+## Production: 
 - https://azzottomovies.com/
 
-## Repository** 
+## Repository 
  - https://github.com/kukuu/azzotto-movies (**PRIVATE**) 
 
 
