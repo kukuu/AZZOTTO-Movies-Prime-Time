@@ -20,9 +20,9 @@ Key features include:
 
 _Modules_:
 
-- https://www.azzottomovies.com/movie/434853
-- https://www.azzottomovies.com/lounge
-- JUKEBOX: Selection of GenXZ music
+- Trailers: https://www.azzottomovies.com/movie/434853
+- Lounge: https://www.azzottomovies.com/lounge
+- Jukebox: Selection of GenXZ music
 - Global Music and Sports Events 2026
 - Pletora of Galleries and Trends
 
