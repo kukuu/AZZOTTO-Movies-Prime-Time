@@ -54,11 +54,15 @@ A custom middleware layer now fuses YouTube API with proprietary video algorithm
 
 This marks our strategic evolution from "AZZOTTO Movies" to "*AZZOTTO Stream*" — a transformative move that expands our service to include:
 
-1. 📺 *Rich Content Streaming Movies & Trailers (core offering*
-2. 🎵 *Concerts - Live and recorded performances*
-3. ⚽ *Sports - Events and highlights*
-4. 🌍 *Global Events - Cultural and entertainment gatherings*
-5. 🎙️ *Interviews - Exclusive conversations with creators*
+📺 **Rich Content Streaming Movies & Trailers**
+
+🎵 **Concerts - Live and recorded performances**
+
+⚽ **Sports - Events and highlights**
+
+🌍 **Global Events - Cultural and entertainment gatherings**
+
+🎙️ **Interviews - Exclusive conversations with creators**
 
 ## 💡  Key Achievements
 
