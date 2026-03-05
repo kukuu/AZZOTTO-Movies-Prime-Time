@@ -11,7 +11,7 @@ Other complementary services on the platform include Music, Gobal Events schedul
 
 Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library. 
 
-## Key features include:
+## Key features:
 
 📬 **Engagement & Marketing Tools**: Integrated systems like a Newsletter service (/newsletter) to build community and drive user retention through direct communication.
 
