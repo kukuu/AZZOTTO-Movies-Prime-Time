@@ -9,7 +9,7 @@ A GenXZ hub combining free services in entertainment and trend.
 
 Other complementary services on the platform include Music, Gobal Events schedule and a plethora of Galleries and Promotions
 
-Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library. 
+Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library.  
 
 ## Key features:
 
