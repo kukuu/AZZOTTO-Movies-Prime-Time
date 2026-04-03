@@ -46,6 +46,8 @@ Machine Learning principles embedded in the algorithm ensure:
 
 A custom middleware layer now fuses YouTube API with proprietary video algorithms to deliver:
 
+**StreamJack Interceptor** https://github.com/kukuu/StreamJack-Interceptor/blob/main/README.md 
+
 1. Post-play PROMOS and Ads from "AZZOTTO Stream" after content completion
 2. Strategic replacement of generic YouTube recommendations with branded content
 3. Seamless transition from user content to promotional material
