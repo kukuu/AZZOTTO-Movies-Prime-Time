@@ -72,7 +72,9 @@ This marks our strategic evolution from "AZZOTTO Movies" to "*AZZOTTO Stream*" ‚
 
 ## üèÜ Technical Excellence
 
-The fusion of hash navigation algorithms with video middleware demonstrates our commitment to:
+
+
+The fusion of hash navigation algorithms and video middleware  StreamJack Interceptor https://github.com/kukuu/StreamJack-Interceptor/blob/main/README.md demonstrates our commitment to:
 
 1. Intelligent UX design
 2. Seamless content delivery
@@ -93,6 +95,10 @@ This evolution positions "*AZZOTTO Stream*" as a comprehensive entertainment pla
 - https://azzottomovies.com/
 
 ## Repository 
- - https://github.com/kukuu/azzotto-movies (**PRIVATE**) 
+ - https://github.com/kukuu/azzotto-movies (**PRIVATE**)
+
+## Promo Quick View
+
+- https://www.azzottomovies.com/PR/azzotto-stream-pr.html
 
 
