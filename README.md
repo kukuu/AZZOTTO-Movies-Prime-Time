@@ -1,6 +1,7 @@
 # AZZOTTO Stream
 **_Connecting all straming  voices_**
 
+**Owner and Developer - Alexander Adu-Sarkodie**__
 https://www.azzottomovies.com/
 
 A GenXZ hub combining free services in entertainment and trend. 
