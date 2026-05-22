@@ -1,9 +1,9 @@
 # AZZOTTO Stream
 
-**_Owner and Developer** - Alexander Adu-Sarkodie_
+**Owner and Developer** - Alexander Adu-Sarkodie_
 https://www.azzottomovies.com/
 
-**Connecting all straming  voices_**: https://github.com/kukuu/AZZOTTO-Stream-Entertainment
+_Connecting all straming  voices_: https://github.com/kukuu/AZZOTTO-Stream-Entertainment
 
 A GenXZ hub combining free services in entertainment and trend. 
 
