@@ -6,7 +6,7 @@ https://www.azzottomovies.com/
 
 _Connecting all straming  voices_: https://github.com/kukuu/AZZOTTO-Stream-Entertainment
 
-A GenXZ hub combining free services in entertainment and trend. 
+A GenXZ hub combining services in entertainment and trends. 
 
 **Azzotto Stream** is a sophisticated, streaming platform engineered to cater to a global audience with a specialised focus on impactful trailers <!--regional cinema,--> including European,   Asian and African films. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.   
 
