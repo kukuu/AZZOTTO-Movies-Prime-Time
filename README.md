@@ -10,7 +10,7 @@ Other complementary services on the platform include Music, Gobal Events schedul
 
 Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library.  
 
-The real game-changer in AZZOTTO Stream (https://www.azzottomovies.com/) however, is StreamJack - a precision AI ad-engine that deploys hyper-customised, targeted advertisements precisely at the end of every video, transforming those final credits into a prime, non-intrusive monetisation moment that captures fully engaged audiences and delivers unmatched ROI for brands, all without spoiling the cinematic flow.
+The real game-changer in AZZOTTO Stream (https://www.azzottomovies.com/) however, is **StreamJack** - a precision AI ad-engine that deploys hyper-customised, targeted advertisements precisely at the end of every video, transforming those final credits into a prime, non-intrusive monetisation moment that captures fully engaged audiences and delivers unmatched ROI for brands, all without spoiling the cinematic flow.
 
 ## Key features:
 
