@@ -35,7 +35,7 @@ No matter which REGION (Global/Africa/Asia) or LOUNGE you're in:
 
 📱 **Deep Page Intelligence**
 
-Even from REGIONAL index pages, the system can fetch and navigate to deeply anchored pages
+From REGIONAL index pages, the system can fetch and navigate to deeply anchored pages
 
 Machine Learning principles embedded in the algorithm ensure:
 
