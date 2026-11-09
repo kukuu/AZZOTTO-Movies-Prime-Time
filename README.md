@@ -6,7 +6,7 @@ https://www.azzottomovies.com/ (connecting all straming  voices: https://github.
 
 **Azzotto Stream** is a sophisticated, streaming platform engineered to cater to a global audience with a specialised focus on impactful trailers <!--regional cinema,--> including European,   Asian and African films. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.   
 
-Other complementary services on the platform include Music, Gobal Events schedule and a plethora of Galleries and Promotions
+Other complementary services on the platform include Music, Gobal Events schedule and a plethora of Galleries and Promotions.
 
 Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library.  
 
