@@ -1,7 +1,7 @@
 # AZZOTTO Stream
 https://www.azzottomovies.com/ (connecting all straming  voices: https://github.com/kukuu/AZZOTTO-Stream-Entertainment).
 
-**Owner and Developer** - Alexander Adu-Sarkodie
+**Owner and Developer** - Alexander Adu-Sarkodie 
 
 
 **Azzotto Stream** is a sophisticated, streaming platform engineered to cater to a global audience with a specialised focus on impactful trailers <!--regional cinema,--> including European,   Asian and African films. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.   
