@@ -12,6 +12,8 @@ Its core functionality is driven by a structured, data-centric architecture, all
 
 The real game-changer in AZZOTTO Stream (https://www.azzottomovies.com/) however, is **StreamJack** - a precision AI ad-engine that deploys hyper-customised, targeted advertisements precisely at the end of every video, transforming those final credits into a prime, non-intrusive monetisation moment that captures fully engaged audiences and delivers unmatched ROI for brands, all without spoiling the cinematic flow.
 
+ _Promo View_ : https://www.azzottomovies.com/PR/azzotto-stream-pr.html
+
 ## Key features:
 
 📬 **Engagement & Marketing Tools**: Integrated systems like a Newsletter service (/newsletter) to build community and drive user retention through direct communication.
@@ -100,9 +102,7 @@ This evolution positions "*AZZOTTO Stream*" as a comprehensive entertainment pla
 ## Repository 
  - https://github.com/kukuu/azzotto-movies (**PRIVATE**)
 
-## Promo Quick View
 
-- https://www.azzottomovies.com/PR/azzotto-stream-pr.html
 
 
 
