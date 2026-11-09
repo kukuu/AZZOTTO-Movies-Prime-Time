@@ -1,5 +1,5 @@
 # AZZOTTO Stream
-https://www.azzottomovies.com/ (connecting all straming  voices_: https://github.com/kukuu/AZZOTTO-Stream-Entertainment)
+https://www.azzottomovies.com/ (connecting all straming  voices: https://github.com/kukuu/AZZOTTO-Stream-Entertainment).
 
 **Owner and Developer** - Alexander Adu-Sarkodie
 
